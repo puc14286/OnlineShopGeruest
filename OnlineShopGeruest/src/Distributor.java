@@ -1,9 +1,9 @@
+import java.util.HashSet;
+
 
 public class Distributor {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	private HashSet<Land> land;
+	private Format f;
+    
 }
